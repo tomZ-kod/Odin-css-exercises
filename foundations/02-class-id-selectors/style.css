@@ -4,3 +4,9 @@
 .font-type {
     font-family:Verdana, DejaVu Sans, sans-serif ;
 }
+#text-color {
+    color:rgb(0,0,255)
+}
+.text-size{
+    font-size: 24px;
+}
